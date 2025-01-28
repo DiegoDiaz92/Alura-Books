@@ -79,6 +79,10 @@
 }
 
 .container__link {
+    display: flex;
+}
+
+.container__texto {
     display: none;
 }
 
